@@ -21,7 +21,7 @@ $ POSTGRES_URL=postgresql://postgres:mypass@localhost:5432/postgres?sslmode=disa
 
 Зайти в браузере по ссылке http://0.0.0.0:8080 и используя автоматически сгенерированный web UI для сервиса проверить его работоспособность вместе с  базой данных.
 
-![gRPCUI](./grpcui.png)
+![gRPCUI](./app/grpcui.png)
 
 ## Использование Cockroach DB
 
